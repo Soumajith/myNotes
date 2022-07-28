@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130412872094",
+    "project_id": "my-cool-0001-mynotes",
+    "storage_bucket": "my-cool-0001-mynotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130412872094:android:6271f9f75d49a4afb9168f",
+        "android_client_info": {
+          "package_name": "com.carbon.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130412872094-k0lv0euie73tk1ii2akc9lb0ki6jfgpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTT8xZkedc0_Hh23OVsocLew44Ke5GbpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130412872094-k0lv0euie73tk1ii2akc9lb0ki6jfgpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
