@@ -1,12 +1,10 @@
-// ignore_for_file: use_build_context_synchronously
-
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:mynotes/constants/routes.dart';
 import 'package:mynotes/views/login_view.dart';
 import 'package:mynotes/views/register_view.dart';
-import 'package:mynotes/views/verifyemail_view.dart';
+import 'package:mynotes/views/verify_email_view.dart';
 import 'firebase_options.dart';
 
 void main() {
@@ -16,7 +14,6 @@ void main() {
     theme: ThemeData(
       primarySwatch: Colors.red,
     ),
-    themeMode: ThemeMode.dark,
     home: const HomePage(),
     routes: {
       loginRoute: (context) => const LoginView(),
